@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Michi supervisor de la casa de gatetes",
+  "main": "michi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Rol",
+    "DnD",
+    "Discord"
+  ],
+  "author": "Chloe",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.12.0",
+    "@discordjs/rest": "^0.3.0",
+    "discord-api-types": "^0.28.0",
+    "discord.js": "^13.6.0"
+  }
+}
