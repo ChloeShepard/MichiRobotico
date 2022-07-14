@@ -1,0 +1,5 @@
+{
+	"clientId": "<here_goes_the_Id_of_the_client",
+	"guildId": "<here_goes_the_Id_of_the_discord_server",
+	"token": "<here_goes_the_secret_token_of_the_bot"
+}
